@@ -10,42 +10,42 @@ O estudo foi desenvolvido em Python, no formato de Jupyter Notebook (.ipynb), co
 
 ## Objetivos do projeto
 
-Analisar o desempenho geral dos participantes do ENEM 2021 na Bahia
+* Analisar o desempenho geral dos participantes do ENEM 2021 na Bahia
 
-Comparar resultados entre escolas públicas e privadas
+* Comparar resultados entre escolas públicas e privadas
 
-Avaliar diferenças de desempenho entre municípios
+* Avaliar diferenças de desempenho entre municípios
 
-Utilizar métricas além da média, como distribuição, percentuais e dispersão
+* Utilizar métricas além da média, como distribuição, percentuais e dispersão
 
-Demonstrar um fluxo completo de análise de dados, do tratamento à conclusão
+* Demonstrar um fluxo completo de análise de dados, do tratamento à conclusão
 
 ### Estrutura da análise
 
 O projeto está organizado nas seguintes etapas:
 
-Ingestão e auditoria inicial dos dados
+1. Ingestão e auditoria inicial dos dados
 Leitura dos microdados e avaliação da integridade da base, identificando registros válidos e inconsistências.
 
-Compreensão do conjunto de dados
+2. Compreensão do conjunto de dados
 Análise das variáveis disponíveis, tipos de dados, campos relevantes e entendimento do significado de cada coluna.
 
-Limpeza e tratamento dos dados
+3. Limpeza e tratamento dos dados
 Tratamento de valores ausentes, padronização de colunas, ajuste de tipos de dados e criação de variáveis auxiliares, como médias de notas.
 
-Análise exploratória do desempenho geral
+4. Análise exploratória do desempenho geral
 Avaliação da distribuição das notas, comportamento dos dados e variabilidade do desempenho dos participantes.
 
-Classificação por faixas de desempenho
+5. Classificação por faixas de desempenho
 Segmentação dos participantes em categorias de desempenho (baixo, médio e alto) para facilitar comparações e interpretações.
 
-Análises comparativas e distribucionais
+6. Análises comparativas e distribucionais
 Comparações entre tipos de escola e municípios, com uso de percentuais para evitar distorções causadas pelo volume de participantes.
 
-Síntese dos resultados
+7. Síntese dos resultados
 Consolidação dos principais achados, destacando desigualdades internas e padrões relevantes observados nos dados.
 
-Conclusão e considerações finais
+8. Conclusão e considerações finais
 Discussão dos resultados, limitações do estudo e possíveis caminhos para análises futuras.
 
 ### Abordagem analítica

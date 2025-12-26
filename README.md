@@ -62,15 +62,15 @@ Essa abordagem permite uma leitura mais fiel das desigualdades educacionais e ev
 
 ### Tecnologias utilizadas
 
-Python
+* Python
 
-Pandas
+* Pandas
 
-NumPy
+* NumPy
 
-Matplotlib
+* Matplotlib
 
-Jupyter Notebook
+* Jupyter Notebook
 
 ### Arquivos do repositório
 
